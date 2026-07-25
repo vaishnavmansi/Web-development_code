@@ -1,0 +1,30 @@
+body{
+    margin:200px;
+    margin-top:20px;
+}
+
+header{
+    background-color:rgb(86, 9, 52);
+    padding : 20px;
+    margin-bottom: 20px;
+    color:white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(20, 2, 2, 0.2);
+}
+
+main{
+    margin:10px;
+    padding:20px;
+    box-shadow:inset 0px 4px 8px rgba(20, 2, 2, 0.2);
+}
+h3{
+    color:rgb(11, 11, 43)
+}
+
+footer{
+    background-color:rgb(86, 9, 52);
+    color:white;
+    padding:20px;
+    margin-top: 20px;
+    border-radius:10px
+}
