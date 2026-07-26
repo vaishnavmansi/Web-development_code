@@ -13,15 +13,6 @@ I'm currently learning:
 
 As I continue learning, I'll add more topics, projects, and technologies to this repository.
 
-## 📂 Repository Structure
-
-```text
-.
-├── HTML/
-├── CSS/
-├── JavaScript/
-└── README.md
-```
 
 > The structure will grow as I learn new concepts.
 
