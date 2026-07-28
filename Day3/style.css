@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(246, 248, 249);
+    display: flex;
+    justify-content: center;
+    color: black;
+    height: 100h;
+}
+
+.form-container{
+    width:400px;
+    background: rgb(205, 237, 245);
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: rgb(16, 16, 57);
+}
+
+h2{
+    text-align: center;
+    font-size: larger;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+
+}
+label{
+    color: rgb(6, 6, 31);
+    font-size: large;
+    font-weight: bold;
+}
+.btn{
+    border: 10px;
+}
